@@ -1,7 +1,9 @@
 # whatsapp-chat-analysis
-### A streamlit app to analyze your whatsapp chats
+**A streamlit app to analyze your whatsapp chats**
+* **youtube video link:[How To Convert WhatsApp Chat to CSV or a Data Frame by python](https://www.youtube.com/watch?v=wfmFOcuLvxE&ab_channel=HrithikSharma)**
 
-### Demo Link:https://whatsapp-chat-analysis-main.herokuapp.com/
+
+`Demo Link: https://whatsapp-chat-analysis-main.herokuapp.com/`
 
 ## To run this code in your terminal:
 * ***Open your terminal**
@@ -15,7 +17,8 @@
 * **Run the command** `streamlit run app.py` ***to run your main file***
 
 
-
 ## Contacts:
-* **Created by: [Hritik Sharma](https://github.com/error404compiled)**
-* **Email: [hrithiksharma900@gmail.com](https://hrithiksharma900@gmail.com)**
+* **Created by:[Hritik Sharma](https://github.com/error404compiled)**
+* **Email:[hrithiksharma900@gmail.com](https://hrithiksharma900@gmail.com)**
+* **instagram:[error404_compiled](https://www.instagram.com/error404_compiled/)**
+* **youtube channel:[hrithiksharma](https://www.youtube.com/channel/UCjkSLN45heylRy0i9j0R1cQ)**
