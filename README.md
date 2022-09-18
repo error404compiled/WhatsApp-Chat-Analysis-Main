@@ -1,7 +1,7 @@
 # whatsapp-chat-analysis
-###A streamlit app to analyze your whatsapp chats
+### A streamlit app to analyze your whatsapp chats
 
-###Demo Link:https://whatsapp-chat-analysis-main.herokuapp.com/
+### Demo Link:https://whatsapp-chat-analysis-main.herokuapp.com/
 
 ## To run this code in your terminal:
 * ***Open your terminal**
