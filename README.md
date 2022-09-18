@@ -12,7 +12,7 @@
 ***to activate your environment!***
 * **Write**   `  pip install -r requirements.txt  ` 
 ***to install the python dependencies related to this project like opencv,numpy,scipy etc.***
-* **Run the command** `streamlit run main.py` ***to run your main file***
+* **Run the command** `streamlit run app.py` ***to run your main file***
 
 
 
